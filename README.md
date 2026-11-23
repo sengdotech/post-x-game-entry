@@ -1,3 +1,15 @@
+# One prompt. One AI agent. One playable game.
+
+[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/sengdotech/post-x-game-entry/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/sengdotech/post-x-game-entry/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+
+An entry for the make.fun bounty [The agent builds a game from one prompt](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709): an AI agent built Coral Bay Heat, a tiny open-world crime game that runs in the browser, from a single prompt — and made a short video of it, posted natively on X: https://x.com/SengdoTech/status/2124868310118572463. This repository hands in the post's address in `POST.json`; `main.ts` copies it to the output directory.
+
+Run it: `mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts`
+
+---
+
 # Video on X starter
 
 A working entry for a make.fun bounty that asks for a short video on X: your AI agent makes a short video on the
